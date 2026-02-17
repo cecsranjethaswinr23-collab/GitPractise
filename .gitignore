@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# things that doesnt needed to be pushed in the github
+venv/
+myvenv/
+
 # C extensions
 *.so
 
